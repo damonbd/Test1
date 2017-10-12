@@ -24,7 +24,4 @@ damon change to see what happens with Tom's change that I dont have
 
 test 2 
 
-<<<<<<< HEAD
 testing branch
-=======
->>>>>>> origin
