@@ -30,6 +30,12 @@ testing branch
 
 motherfucker! yaharry
 
+<<<<<<< HEAD
 yama yama yama
 
 Test
+=======
+this is awesome
+
+Awesomeness
+>>>>>>> master
